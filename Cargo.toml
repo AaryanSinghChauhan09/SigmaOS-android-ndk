@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-android-ndk"
+name = "sigmaos_android_ndk"
 version = "0.1.0"
 edition = "2021"
-license = "Apache-2.0"
-description = "SigmaOS component - part of multi-repository architecture"
+license = "MIT"
+description = "SigmaOS android-ndk component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "android-ndk"
+name = "sigmaos_android_ndk"
 path = "src/lib.rs"
